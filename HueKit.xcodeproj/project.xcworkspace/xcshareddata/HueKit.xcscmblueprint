@@ -1,0 +1,257 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f5fb6dda-4b9d-3bba-4afb-d541c8323973++505" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74914B9EE9EBF231E7B13EF2EEED44A03386E384" : 0,
+    "FC6BBF408CE04F7ED6633F7D0C83B49F6816C3E1" : 0,
+    "4005C3D061F62C79D2661D3749182D2D7A2E01CB" : 0,
+    "5FD1C0E19D9AB161ABAA90B038836D2C2581F5AD" : 0,
+    "FBA892C535E5590A0564C908CD653176EC5C0E18" : 0,
+    "f5fb6dda-4b9d-3bba-4afb-d541c8323973++505" : 0,
+    "635DDAB96B8D2057EDE9D104042CBC7BC4D6E376" : 0,
+    "CCA6F61BFE0664A46B79EBEA472A4699F62087BE" : 0,
+    "D9861E91CBE274EEE96F22A8AD00CDB535A4BF72" : 0,
+    "5B236BB9EA786CFBE99F71853B3A9FAA4FEC3013" : 0,
+    "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7" : 0,
+    "ED0FEE4B06950080C829482BBA4951D36F8B3430" : 0,
+    "BE5C958CAC1E88E04CD320BCB80A5ABDBD9AE17D" : 0,
+    "6920F3797F7813915682D317F749167AACBD8BDD" : 0,
+    "5E178F9865B2041DD17C87B739BF07D582A81AAF" : 0,
+    "7AAD3411AD59585D98951301C0E2A7578EA745DF" : 0,
+    "14CC180FE067CC3B9A3E8B3EA2AB3AECE84798BE" : 0,
+    "8FD5253BEF80271A1348156E9F56BDC511CB17E6" : 0,
+    "9DEC3A49ADC9E4ADD2BF2DB7DE2EB366B3EDB63D" : 0,
+    "3747CC4D72F75C1B81FC1DC202A15B96AC3C8AE6" : 0,
+    "66A2B1DFA7BE6A4CF9AA1FF1166048594B0F55DB" : 0,
+    "D6451654E4FB6CF298B7BACD26A60E7A3A05ABEA" : 0,
+    "0195964E5D9AB5C67F0B1C368E18E5D3A317D7B6" : 0,
+    "5C387BD1AF60EEDDE98D40EB4FE9D94FD48B4D9D" : 0,
+    "256B0F812471D5B2E769DED8408EB98C9AFBDC07" : 0,
+    "1E8DBED76D2EAFAE4063E1F8D9D8F914C4FD8BC4" : 0,
+    "A1A999A514F5DE779099B1B31A3BA44723973954" : 0,
+    "78BF8D0E0A4D1CBA893D72DD9B326BDEF467D561" : 0,
+    "DBDAEAB1498CDE6851DEAE9DE2FA379818E35280" : 0,
+    "340883B9DF0F7567157D9FDF3AA826EDD0DE698F" : 0,
+    "12881993C81B3B8C52AE91539690BFAAF1963A3F" : 0,
+    "0B5EFB5DAB74261C8CC206F0A8C8A03649DB14A9" : 0,
+    "FAD204CFB5F6021915B4785147FF445156E0A5A2" : 0,
+    "FA4023EEFEEBA4B9E0D2A9CF16EB98CAEB503D75" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1994E57-8AB0-47F0-A034-10B55BA734D3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74914B9EE9EBF231E7B13EF2EEED44A03386E384" : "zzz%20sleeping%20projects\/Vaporizer\/vaporinstruments\/WMGaugeView\/",
+    "FC6BBF408CE04F7ED6633F7D0C83B49F6816C3E1" : "Bracelet%20Project\/iOSBracelet\/",
+    "4005C3D061F62C79D2661D3749182D2D7A2E01CB" : "Bracelet%20Project\/AndroidBracelet\/",
+    "5FD1C0E19D9AB161ABAA90B038836D2C2581F5AD" : "zzz%20sleeping%20projects\/textalyze\/",
+    "FBA892C535E5590A0564C908CD653176EC5C0E18" : "RFduino\/",
+    "f5fb6dda-4b9d-3bba-4afb-d541c8323973++505" : "bochovj-read-only\/",
+    "635DDAB96B8D2057EDE9D104042CBC7BC4D6E376" : "zzz%20sleeping%20projects\/Vaporizer\/vaporinstruments\/EFCircularSlider\/",
+    "CCA6F61BFE0664A46B79EBEA472A4699F62087BE" : "jekyll-bootstrap\/",
+    "D9861E91CBE274EEE96F22A8AD00CDB535A4BF72" : "zzz%20sleeping%20projects\/NPColorPicker\/",
+    "5B236BB9EA786CFBE99F71853B3A9FAA4FEC3013" : "Bracelet%20Project\/Old%20bracelet\/Bracelet\/",
+    "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7" : "PhilipsHueSDK-iOS-OSX\/",
+    "ED0FEE4B06950080C829482BBA4951D36F8B3430" : "Hue-Quick-Start-iOS-Swift\/",
+    "BE5C958CAC1E88E04CD320BCB80A5ABDBD9AE17D" : "Metawear-SwiftStarter\/",
+    "6920F3797F7813915682D317F749167AACBD8BDD" : "FastLED\/",
+    "5E178F9865B2041DD17C87B739BF07D582A81AAF" : "zzz%20sleeping%20projects\/hw-eaglelibs\/",
+    "7AAD3411AD59585D98951301C0E2A7578EA745DF" : "zzz%20sleeping%20projects\/CHColorPickerView\/",
+    "14CC180FE067CC3B9A3E8B3EA2AB3AECE84798BE" : "zzz%20sleeping%20projects\/GeoPointCompass\/",
+    "8FD5253BEF80271A1348156E9F56BDC511CB17E6" : "zzz%20sleeping%20projects\/LPD8806\/",
+    "9DEC3A49ADC9E4ADD2BF2DB7DE2EB366B3EDB63D" : "SwiftPulse\/",
+    "3747CC4D72F75C1B81FC1DC202A15B96AC3C8AE6" : "XAnimatedImage\/",
+    "66A2B1DFA7BE6A4CF9AA1FF1166048594B0F55DB" : "PhilipsHueSDK-Java-MultiPlatform-Android\/",
+    "D6451654E4FB6CF298B7BACD26A60E7A3A05ABEA" : "SwizzleKit\/",
+    "0195964E5D9AB5C67F0B1C368E18E5D3A317D7B6" : "zzz%20sleeping%20projects\/Adafruit-Eagle-Library\/",
+    "5C387BD1AF60EEDDE98D40EB4FE9D94FD48B4D9D" : "crow.github.io\/",
+    "256B0F812471D5B2E769DED8408EB98C9AFBDC07" : "OpenBeacon\/",
+    "1E8DBED76D2EAFAE4063E1F8D9D8F914C4FD8BC4" : "zzz%20sleeping%20projects\/AMLoginViewController\/",
+    "A1A999A514F5DE779099B1B31A3BA44723973954" : "Beacon-Manager\/",
+    "78BF8D0E0A4D1CBA893D72DD9B326BDEF467D561" : "Projects%20to%20Document\/MantraV1.2\/MantraV1.2\/",
+    "DBDAEAB1498CDE6851DEAE9DE2FA379818E35280" : "SwiftColorPicker\/",
+    "340883B9DF0F7567157D9FDF3AA826EDD0DE698F" : "GradientSlider\/",
+    "12881993C81B3B8C52AE91539690BFAAF1963A3F" : "Mantra\/",
+    "0B5EFB5DAB74261C8CC206F0A8C8A03649DB14A9" : "zzz%20sleeping%20projects\/JMBackgroundCameraView\/",
+    "FAD204CFB5F6021915B4785147FF445156E0A5A2" : "ElasticTransition\/",
+    "FA4023EEFEEBA4B9E0D2A9CF16EB98CAEB503D75" : "zzz%20sleeping%20projects\/SparkFun-Eagle-Libraries\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HueKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HueKit.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/adafruit\/Adafruit-Eagle-Library",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0195964E5D9AB5C67F0B1C368E18E5D3A317D7B6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ulidev\/JMBackgroundCameraView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B5EFB5DAB74261C8CC206F0A8C8A03649DB14A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/Mantra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "12881993C81B3B8C52AE91539690BFAAF1963A3F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:madurangae\/GeoPointCompass.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14CC180FE067CC3B9A3E8B3EA2AB3AECE84798BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mtonio91\/AMLoginViewController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E8DBED76D2EAFAE4063E1F8D9D8F914C4FD8BC4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:steve918\/OpenBeacon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "256B0F812471D5B2E769DED8408EB98C9AFBDC07"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jonhull\/GradientSlider.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "340883B9DF0F7567157D9FDF3AA826EDD0DE698F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:khaledmtaha\/XAnimatedImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3747CC4D72F75C1B81FC1DC202A15B96AC3C8AE6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/AndroidBracelet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4005C3D061F62C79D2661D3749182D2D7A2E01CB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/LightVest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5B236BB9EA786CFBE99F71853B3A9FAA4FEC3013"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/crow.github.io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C387BD1AF60EEDDE98D40EB4FE9D94FD48B4D9D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:jan1s\/hw-eaglelibs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E178F9865B2041DD17C87B739BF07D582A81AAF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/gloriousrocketship\/textalyze.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5FD1C0E19D9AB161ABAA90B038836D2C2581F5AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:eliotfowler\/EFCircularSlider.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "635DDAB96B8D2057EDE9D104042CBC7BC4D6E376"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/PhilipsHueSDK-Java-MultiPlatform-Android.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66A2B1DFA7BE6A4CF9AA1FF1166048594B0F55DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:FastLED\/FastLED.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6920F3797F7813915682D317F749167AACBD8BDD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Will-tm\/WMGaugeView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74914B9EE9EBF231E7B13EF2EEED44A03386E384"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jdavidcrow\/Mantra.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78BF8D0E0A4D1CBA893D72DD9B326BDEF467D561"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:beat843796\/CHColorPickerView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7AAD3411AD59585D98951301C0E2A7578EA745DF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adafruit\/LPD8806.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FD5253BEF80271A1348156E9F56BDC511CB17E6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ctews\/SwiftPulse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9DEC3A49ADC9E4ADD2BF2DB7DE2EB366B3EDB63D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/Beacon-Manager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1A999A514F5DE779099B1B31A3BA44723973954"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:PhilipsHue\/PhilipsHueSDK-iOS-OSX.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BABF2D0599CA6E23FE31A3B1C37F407CA3D850D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mbientlab\/Metawear-SwiftStarter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE5C958CAC1E88E04CD320BCB80A5ABDBD9AE17D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/plusjade\/jekyll-bootstrap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CCA6F61BFE0664A46B79EBEA472A4699F62087BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/SwizzleKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D6451654E4FB6CF298B7BACD26A60E7A3A05ABEA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:neopixl\/NPColorPicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D9861E91CBE274EEE96F22A8AD00CDB535A4BF72"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:MrMatthias\/SwiftColorPicker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBDAEAB1498CDE6851DEAE9DE2FA379818E35280"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kevindew\/Hue-Quick-Start-iOS-Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED0FEE4B06950080C829482BBA4951D36F8B3430"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sparkfun\/SparkFun-Eagle-Libraries.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FA4023EEFEEBA4B9E0D2A9CF16EB98CAEB503D75"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lkzhao\/ElasticTransition.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FAD204CFB5F6021915B4785147FF445156E0A5A2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:RFduino\/RFduino.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBA892C535E5590A0564C908CD653176EC5C0E18"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:crow\/Bracelet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC6BBF408CE04F7ED6633F7D0C83B49F6816C3E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/bochovj.googlecode.com\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f5fb6dda-4b9d-3bba-4afb-d541c8323973++505"
+    }
+  ]
+}

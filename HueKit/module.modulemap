@@ -1,0 +1,7 @@
+/*
+ * Links the HueSDK_iOS umbrella header
+ */
+module HueSDK_iOS {
+    header "HueSDK_iOS.framework/Headers/HueSDK.h"
+    export *
+}
